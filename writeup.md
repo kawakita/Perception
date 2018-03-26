@@ -19,7 +19,7 @@ ___
 Please reference:
 - `RoboND-Perception-Exercises/Exercise-3/sensor_stick/scripts/capture_features.py`
 - `RoboND-Perception-Exercises/Exercise-3/sensor_stick/scripts/train_svm.py`
-- `RoboND-Perception-Exercises/Exercise-3/sensor_stick/src/features.py`
+- `RoboND-Perception-Exercises/Exercise-3/sensor_stick/src/sensor_stick/features.py`
 - `RoboND-Perception-Exercises/Exercise-3/sensor_stick/scripts/object_recognition.py`
 
 Some keys changes included:
